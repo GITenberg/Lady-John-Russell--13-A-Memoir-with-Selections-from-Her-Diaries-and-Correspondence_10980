@@ -1,0 +1,49 @@
+_repo: Lady-John-Russell--13-A-Memoir-with-Selections-from-Her-Diaries-and-Correspondence_10980
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Harrison, Frederic
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '5960'
+    url: http://www.gutenberg.org/2009/agents/5960
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Harrison
+  - agent_name: McCarthy, Justin
+    alias: M'Carthy, Justin
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '1783'
+    url: http://www.gutenberg.org/2009/agents/1783
+    wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
+creator:
+  editors:
+  - agent_name: MacCarthy, Desmond
+    aliases:
+    - Mac-Carthy, Desmond
+    - MacCarthy, Desmond, Sir
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '38260'
+    url: http://www.gutenberg.org/2009/agents/38260
+  - agent_name: Russell, Agatha, lady
+    alias: Russell, Lady Agatha, i.e. Mary Agatha
+    birthdate: 1853
+    gutenberg_agent_id: '40399'
+    url: http://www.gutenberg.org/2009/agents/40399
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russell, Frances Anna Maria (Elliot) Russell, countess, 1815-1898'
+- !lcc 'DA'
+- !lcsh 'Russell, John Russell, Earl, 1792-1878'
+- !lcsh 'Great Britain -- Politics and government -- 19th century'
+- GITenberg
+title: "Lady John Russell\r\nA Memoir with Selections from Her Diaries and Correspondence"
+url: http://www.gutenberg.org/ebooks/10980
