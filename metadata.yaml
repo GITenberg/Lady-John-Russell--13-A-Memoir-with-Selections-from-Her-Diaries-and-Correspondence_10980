@@ -1,5 +1,5 @@
 _repo: Lady-John-Russell--13-A-Memoir-with-Selections-from-Her-Diaries-and-Correspondence_10980
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Harrison, Frederic
@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '1783'
     url: http://www.gutenberg.org/2009/agents/1783
     wikipedia: http://en.wikipedia.org/wiki/Justin_McCarthy_(1830%E2%80%931912)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: MacCarthy, Desmond
@@ -31,6 +34,8 @@ creator:
     gutenberg_agent_id: '40399'
     url: http://www.gutenberg.org/2009/agents/40399
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10980#Lady-John-Russell--13-A-Memoir-with-Selections-from-Her-Diaries-and-Correspondence
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
